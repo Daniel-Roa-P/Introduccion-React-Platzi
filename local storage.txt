@@ -1,0 +1,13 @@
+defaultTodos = [ 
+
+  { text: 'Cortar cebolla', completed: true},
+  
+  { text: 'Intro React', completed: false},
+  
+  { text: 'Llorar con la llorona', completed: false},
+
+  { text: 'LALALALAA', completed: false },
+
+]
+
+localStorage.setItem('TODOS_V1', JSON.stringify(defaultTodos));
