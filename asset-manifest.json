@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%20Introduccion-React-Platzi/static/css/main.3b523f29.css",
-    "main.js": "/%20Introduccion-React-Platzi/static/js/main.de992f5e.js",
-    "index.html": "/%20Introduccion-React-Platzi/index.html",
-    "static/media/delete.svg": "/%20Introduccion-React-Platzi/static/media/delete.a2ce781d87539ab422ca9b3bbc2b4508.svg",
-    "static/media/check.svg": "/%20Introduccion-React-Platzi/static/media/check.38f596e64d38d54463f988385b633c05.svg",
-    "main.3b523f29.css.map": "/%20Introduccion-React-Platzi/static/css/main.3b523f29.css.map",
-    "main.de992f5e.js.map": "/%20Introduccion-React-Platzi/static/js/main.de992f5e.js.map"
+    "main.css": "/Introduccion-React-Platzi/static/css/main.3b523f29.css",
+    "main.js": "/Introduccion-React-Platzi/static/js/main.6c028ee6.js",
+    "index.html": "/Introduccion-React-Platzi/index.html",
+    "static/media/delete.svg": "/Introduccion-React-Platzi/static/media/delete.a2ce781d87539ab422ca9b3bbc2b4508.svg",
+    "static/media/check.svg": "/Introduccion-React-Platzi/static/media/check.38f596e64d38d54463f988385b633c05.svg",
+    "main.3b523f29.css.map": "/Introduccion-React-Platzi/static/css/main.3b523f29.css.map",
+    "main.6c028ee6.js.map": "/Introduccion-React-Platzi/static/js/main.6c028ee6.js.map"
   },
   "entrypoints": [
     "static/css/main.3b523f29.css",
-    "static/js/main.de992f5e.js"
+    "static/js/main.6c028ee6.js"
   ]
 }
